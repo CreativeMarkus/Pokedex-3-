@@ -1,0 +1,8 @@
+body {
+  background-color: #f9f9f9;
+}
+
+.pokemon-list {
+  max-width: 500px;
+  margin: 0 auto;
+}
